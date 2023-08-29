@@ -1,9 +1,13 @@
+const score = 100
+// const scoreValue  = 100.3
 
-// console.log(+true);
+// const isLoggedIn = false
+// const outsideTemp = null
+// let userEmail;
 
-// console.log(+"");
+// const id = Symbol ('123')
+// const anotherId = Symbol ('123')
 
+// console.log(id === anotherId);
 
-// let num1, num2 , num3
-
-// num1 = num2 = num3 = 2+2
+// const bigNumber = 33333343654568n
