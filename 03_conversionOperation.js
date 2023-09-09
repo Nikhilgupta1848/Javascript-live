@@ -13,7 +13,7 @@
 
 // let isLoggedIn = "nik"
 
-// let booleanIsLoggedIn = Boolean(isLoggedIn)
+// let boolean IsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn);
 
 // 1 => true , 0 => false
