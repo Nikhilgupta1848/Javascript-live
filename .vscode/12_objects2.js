@@ -48,8 +48,48 @@ users[1].email
 console.log(tinderuser);
 
 // console.log(Object.keys(tinderuser));
-// console.log(Object.values(tinderuser));
+//  console.log(Object.values(tinderuser));
 // console.log(Object.entries(tinderuser));
 
-// console.log(tinderuser.hasOwnProperty('isLoggedIn'));
+//  console.log(tinderuser.hasOwnProperty('isLoggedIn'));
 
+const course = {
+    coursename : "Js in hindi",
+    price : "999",
+    courseInstructor : "Hitesh"
+}
+
+// course.courseInstructor
+
+const{courseInstructor : instructor} = course
+// console.log(courseInstructor);
+console.log(instructor);
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+// React mein aisa hota hai destructuring
+
+// const navbar = ({company}) => {
+
+// }
+
+// navbar(company = "hitesh")
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// This is how json looks like 
+// {
+//    " name" : "Hitesh",
+//    "coursename": "js in hindi",
+//      "price" : "free"
+
+// }
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[
+    {},
+    {},
+    {}
+]
