@@ -1,2 +1,1 @@
-
-// console.log(returnSecondvalue(myNewArray));
+console.log(b);
