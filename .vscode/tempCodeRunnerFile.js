@@ -1,1 +1,1 @@
-two()
+console.log(this);
