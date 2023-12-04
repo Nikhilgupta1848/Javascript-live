@@ -1,1 +1,1 @@
-console.log(b);
+two()
