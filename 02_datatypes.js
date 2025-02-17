@@ -11,7 +11,7 @@
 //  let isLoggedIn = false
 
 
- // number => 2 to pow 53
+ // number => 2 to power 53
  // bigint 
  // string => ""
  // boolean => true /false
@@ -24,7 +24,7 @@
  // object 
 
 //  console.log(typeof undefined);// undefined
-//  console.log(typeof null); // object
+ // console.log(typeof null); // object
 
 
 

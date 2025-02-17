@@ -1,22 +1,22 @@
-// let score = "nik"
+ let score ="33"//or"nik"
 
-// console.log(typeof score);
-// console.log(typeof (score));
+ console.log(typeof score);
+ console.log(typeof (score));
 
-// let valueInNumber = Number(score)
-// console.log(typeof valueInNumber);
-// console.log(valueInNumber)
+ let valueInNumber = Number(score)
+ console.log(typeof valueInNumber);
+console.log(valueInNumber)
 
-// "33"=> 33
+// values ------"33"=> 33
 // "33abc" ,null,undefined = NaN
 // boolean - true=>1 , false => 0
 
 // let isLoggedIn = "nik"
 
-// let boolean IsLoggedIn = Boolean(isLoggedIn)
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn);
 
-// 1 => true , 0 => false
+// values -- 1 => true , 0 => false
 // "" = false
 // "nikhil" => true
 
@@ -35,8 +35,8 @@
 
 // console.log(2 + 2);
 // console.log(2 - 2);
-// console.log(2*2);
-// console.log(2**3);
+// console.log(2*2); power
+// console.log(2**3); 
 // console.log(2/3);
 // console.log(2%3);
 
@@ -61,9 +61,9 @@
 
 // num1 = num2 = num3 = 2+2
 
-let gameCounter = 100
-gameCounter++;
-console.log(gameCounter);
+// let gameCounter = 100
+// gameCounter++;
+// console.log(gameCounter);
 
 // prefix and postfix operator do  matter
 

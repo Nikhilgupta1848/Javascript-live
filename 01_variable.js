@@ -1,9 +1,9 @@
 const accountId  = 144553
 let accountEmail = "nikhilkrkanti@gmail.com"
-var accountCity = "12345"
+var accountCity = "12345" // dont use var
 accountCity = "jaipur"
 let accountState;
-// accountId = 2
+// accountId = 2  not allowed because of const
 
 accountEmail = "nik@gmail.comn"
 accontPassword = "212121"
