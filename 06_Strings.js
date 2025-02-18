@@ -10,7 +10,7 @@
 
 
 // console.log(gameName[0]);
-// console.log(gameName.__proto__);
+ console.log(gameName.__proto__);
 
 
 
@@ -24,8 +24,8 @@
 
 //  console.log(newString);
 
-//  const anotherString = gameName.slice(-5,4 )
-//  console.log(anotherString);
+  const anotherString = gameName.slice(0,4 )
+  console.log(anotherString);
 
 // const newStringOne = "   Nikhil   "
 // console.log(newStringOne);
@@ -35,6 +35,6 @@ const url = "https://nikhil.com/nik%20kumar"
 
 console.log(url.replace('%20', '-'))
 
-console.log(url.includes('niku'));
+console.log(url.includes('nik'));
 
 console.log(gameName.split('-'));

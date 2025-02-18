@@ -1,2 +1,1 @@
-console.log(myTimeStamp);
-// console.log(myCreateddate.getTime());
+console.log(this);
