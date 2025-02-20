@@ -1,5 +1,5 @@
-// const tinderuser = new Object()
-const tinderuser = {}
+// const tinderuser = new Object() // this is singleton object
+const tinderuser = {} // this is non singleton object
 
 tinderuser.id = "1ve20cs103"
 tinderuser.name = "Nikhil"
@@ -12,7 +12,7 @@ const regularUser = {
     email : "nikhilkrkanti@gmail.com",
     fullname: {
         userfullname : {
-            firstname : "Nikhil",
+            firstname : "Nikhil",      //unlimited object nesting
             Lastname : "kumar"
         }
     }

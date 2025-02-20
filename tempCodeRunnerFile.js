@@ -1,1 +1,3 @@
-console.log(this);
+newDate.toLocaleString('default',{
+//     weekday: "long" ,
+// })

@@ -4,12 +4,12 @@ const lang = ["js" , "c" , "php", "java"]
 //  names.push(lang)
 
 //  console.log(names);
-//  console.log(names[4][1]);
+//  console.log(names[4][1]);// not a good way
 
-// const namesandlang = names.concat(lang)
-// console.log(namesandlang);
+// const namesandlang = names.concat(lang) 
+// console.log(namesandlang); // its a good way
 
-// const namesandandlang = [...names, ...lang]
+// const namesandandlang = [...names, ...lang]// spread operator
 
 // console.log(namesandandlang);
 
@@ -17,7 +17,13 @@ const lang = ["js" , "c" , "php", "java"]
 
 // const extrarray = nos.flat(Infinity)
 
+// it  will show arrays in one single sqaure bracket
+
 // console.log(extrarray);
+
+
+
+
 
 
 

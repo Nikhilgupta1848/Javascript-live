@@ -1,5 +1,5 @@
 // Singleton
-
+// ye apni tarah ka ek hi object hai 
 
 
 // Object.create
